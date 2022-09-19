@@ -1,1 +1,18 @@
 /* write your override styles here */
+
+#wall{
+    margin: 20px;
+    width: 780px;
+    height: 222px;
+   
+    border: 10px solid red;
+    border-bottom: 20px solid black;
+}
+
+.tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 880px;
+    height: 522px;
+  }
